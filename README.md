@@ -1,1 +1,2 @@
-<img width="649" height="658" alt="flow_matching_demo" src="https://github.com/user-attachments/assets/b8d0a0cb-9ae8-4c71-91d7-ad4a975fe676" />
+
+<img width="405" height="427" alt="demo" src="https://github.com/user-attachments/assets/c31218aa-78ff-45c0-8ea6-58ccce9735b1" />
